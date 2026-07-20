@@ -1,6 +1,6 @@
 #EXTM3U
 # Polish IPTV — auto-merged: iptv-org + Free-TV
-# Updated: 2026-07-20 10:29 | Channels: 118
+# Updated: 2026-07-20 19:01 | Channels: 118
 #EXTINF:-1 tvg-id="13Ulica.pl@SD" tvg-logo="https://i.imgur.com/0gCNnLq.png" group-title="Entertainment",13 Ulica (1080p)
 http://91.146.94.234:10001/play/a088
 #EXTINF:-1 tvg-id="4FunKids.pl@SD" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Kids",4 Fun Kids (576i) [[Not 24/7]]
